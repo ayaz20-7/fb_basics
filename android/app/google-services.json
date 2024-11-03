@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33366975385",
+    "project_id": "flutter-firebase-basics-bb333",
+    "storage_bucket": "flutter-firebase-basics-bb333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33366975385:android:8be81af224d41b2a2a6908",
+        "android_client_info": {
+          "package_name": "com.example.fb_basics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTpbxKKwadKRyy-LnhYhtM74eepYctSBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
